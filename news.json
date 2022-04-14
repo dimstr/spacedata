@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Martian brain freeze",
-    "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/03/utopia_planitia_on_mars/24012104-1-eng-GB/Utopia_Planitia_on_Mars_pillars.jpg",
+    "urlToImage": "https://raw.githubusercontent.com/dimstr/spacedata/main/images/Utopia_Planitia_on_Mars_pillars.jpg",
     "isMarkDown": true,
     "urlToMarkDown": "not",
     "urlToWebSite": "not"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Jupiter’s Great Red Spot: Both Deep and Wide",
-    "urlToImage": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia25011-1041.jpg",
+    "urlToImage": "https://raw.githubusercontent.com/dimstr/spacedata/main/images/jupiter.jpg",
     "isMarkDown": false,
     "urlToMarkDown": "nill",
     "urlToWebSite": "https://www.nasa.gov/image-feature/jpl/jupiter-s-great-red-spot-both-deep-and-wide"
