@@ -2,28 +2,28 @@
   {
     "title": "Марсоход «Розалинд Франклин» вряд ли будет запущен до 2028 года",
     "urlToImage": "https://cdn.thealphacentauri.net/wp-content/uploads/2022/05/2.-ExoMars2018_Rover_20140321_9k-720x479.jpg",
-    "type": "web",
+    "type": "w",
     "urlToMarkdown": "",
     "urlToWeb": "https://thealphacentauri.net/121169-marsohod-rozalind-franklin-vryad-li-budet-zapushchen-do-2028-goda/"
   },
   {
     "title": "Открывая облака Венеры",
     "urlToImage": "https://cdn.thealphacentauri.net/wp-content/uploads/2022/04/Venuscloud_cover.jpg",
-    "type": "web",
+    "type": "w",
     "urlToMarkdown": "",
     "urlToWeb": "https://thealphacentauri.net/120535-otkryvaya-oblaka-venery/"
   },
   {
     "title": "Запуск космического аппарата к Урану может стать приоритетом для NASA в ближайшее десятилетие",
     "urlToImage": "https://cdn.thealphacentauri.net/wp-content/uploads/2022/04/n40YgyB-720x405.jpeg",
-    "type": "web",
+    "type": "w",
     "urlToMarkdown": "",
     "urlToWeb": "https://thealphacentauri.net/120688-zapusk-kosmicheskogo-apparata-k-uranu-mojet-stat-prioritetom-dlya-nasa-v-blijayshee-desyatiletie/"
   },
   {
     "title": "Martian brain freeze",
     "urlToImage": "https://raw.githubusercontent.com/dimstr/spacedata/main/images/Utopia_Planitia_on_Mars_pillars.jpg",
-    "type": "markdown",
+    "type": "m",
     "urlToMarkdown": "https://raw.githubusercontent.com/dimstr/DnevnikJsonData/main/markdown/duty.md",
     "urlToWeb": ""
   }
